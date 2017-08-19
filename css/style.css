@@ -1,0 +1,21 @@
+.layout {
+    background-color: #EBEBEB;
+}
+
+.menu {
+    background-color: #A11D22;
+    display:flex;
+    justify-content: center;
+}
+
+.item {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
